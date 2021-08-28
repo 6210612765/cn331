@@ -5,3 +5,5 @@
 # Age : 21 , gender : male
 # Hobbies : play game , watch movies , programming
 # Phone number : 0943657920
+# Email : rainbowlnw@gmail.com
+:smiley: :smiley: :smiley:
