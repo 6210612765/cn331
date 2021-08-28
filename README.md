@@ -1,2 +1,2 @@
 # Nice to meet you
-![My Picture](pic1.jpg)
+![My Picture](pic2.jpg)
